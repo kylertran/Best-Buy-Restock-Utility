@@ -1,4 +1,5 @@
 # Best Buy Restock Utility
+![Bot Preview](preview.png)
 
 **Created by Kyler Tran - 2020**
 
