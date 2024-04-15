@@ -1,7 +1,7 @@
 # Best Buy Restock Utility
 ![Bot Preview](preview.png)
 
-**Created by Kyler Tran - 2020**
+**Copyright &copy; 2020 Kyler Tran**
 
 The Best Buy Restock Utility is a Java application designed to help users monitor product availability at Best Buy. This utility checks periodically for restocks of specified items and notifies the user via email and text message when those items are back in stock, using the SendGrid API for reliable notification delivery.
 
@@ -17,6 +17,5 @@ The Best Buy Restock Utility is a Java application designed to help users monito
 - A SendGrid API key.
 
 ## Contact
-
-For support, feedback, or inquiries, please contact:
+Kyler Tran  
 **Email**: [kylerzinbox@gmail.com](mailto:kylerzinbox@gmail.com)
