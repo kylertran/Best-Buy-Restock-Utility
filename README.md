@@ -18,4 +18,5 @@ The Best Buy Restock Utility is a Java application designed to help users monito
 
 ## Contact
 Kyler Tran
+
 **Email**: [contact@kylertran.com](mailto:contact@kylertran.com)
