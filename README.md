@@ -17,5 +17,6 @@ The Best Buy Restock Utility is a Java application designed to help users monito
 - A SendGrid API key.
 
 ## Contact
-Kyler Tran  
-**Email**: [kylerzinbox@gmail.com](mailto:kylerzinbox@gmail.com)
+
+**Kyler Tran**
+Email: [contact@kylertran.com](mailto:contact@kylertran.com)
